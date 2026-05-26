@@ -6,6 +6,8 @@
 ![AZ-900](https://img.shields.io/badge/Certification-AZ--900-0078D4?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+<img width="300" height="300" alt="microsoft-certified-azure-fundamentals" src="https://github.com/user-attachments/assets/8aa54c40-7451-4965-93ff-94ce0c1effab" /><img width="1141" height="887" alt="image" src="https://github.com/user-attachments/assets/55bd021a-391a-46fd-a636-9279767cfaea" />
+
 ---
 
 ## 📌 Overview
