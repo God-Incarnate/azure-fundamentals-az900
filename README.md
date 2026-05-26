@@ -2,8 +2,8 @@
 
 **Industrial Internship Report & Hands-on Azure Learning Repository**
 
-![Azure Badge]([https://img.shields.io/badge/Azure-Fundamentals-0078D4](https://drive.google.com/file/d/1LILYcse-h14aZTVJh80s7CfAQHGmLm50/view?usp=drive_link)?style=flat-square&logo=microsoft-azure)
-![AZ-900](https://drive.google.com/file/d/1bGJ9ImmD5N2GXDPI7tk1w4H3bRxrmkxa/view?usp=drive_link?style=flat-square)
+![Azure Badge](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat-square&logo=microsoft-azure)
+![AZ-900](https://img.shields.io/badge/Certification-AZ--900-0078D4?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
